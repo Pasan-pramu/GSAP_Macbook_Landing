@@ -13,8 +13,8 @@ const Highlights = () => {
             },
             y: 0,
             opacity: 1,
-            stagger: 0.5,
-            duration: 1,
+            stagger: 1,
+            duration: 2,
             ease: 'power1.inOut'
         });
     })
